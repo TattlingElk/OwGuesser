@@ -1,0 +1,207 @@
+[
+    {
+        "screenName": "Ana",
+        "acceptedNames": ["Ana", "Anna", "Sniper Grandma"],
+        "image": "heroes-art/ana.png"
+    },
+    {
+        "screenName": "Ashe",
+        "acceptedNames": ["Ashe", "Ash"],
+        "image": "heroes-art/ashe.png"
+    },
+    {
+        "screenName": "Baptiste",
+        "acceptedNames": ["Baptiste", "Bap", "Lamp"],
+        "image": "heroes-art/bap.png"
+    },
+    {
+        "screenName": "Bastion",
+        "acceptedNames": ["Bastion", "Bas", "Robot"],
+        "image": "heroes-art/bastion.png"
+    },
+    {
+        "screenName": "Brigitte",
+        "acceptedNames": ["Brigitte", "Brig", "Shieldmaiden"],
+        "image": "heroes-art/brigitte.png"
+    },
+    {
+        "screenName": "Cassidy",
+        "acceptedNames": ["Cassidy", "Cass", "McCree", "Mc Cree"],
+        "image": "heroes-art/cassidy.png"
+    },
+    {
+        "screenName": "D.Va",
+        "acceptedNames": ["D.Va", "Mech", "D.Va's mech","dva"],
+        "image": "heroes-art/dva.png"
+    },
+    {
+        "screenName": "Doomfist",
+        "acceptedNames": ["Doomfist", "Doom"],
+        "image": "heroes-art/doomfist.png"
+    },
+    {
+        "screenName": "Echo",
+        "acceptedNames": ["Echo"],
+        "image": "heroes-art/echo.png"
+    },
+    {
+        "screenName": "Genji",
+        "acceptedNames": ["Genji"],
+        "image": "heroes-art/genji.png"
+    },
+    {
+        "screenName": "Hanzo",
+        "acceptedNames": ["Hanzo"],
+        "image": "heroes-art/hanzo.png"
+    },
+    {
+        "screenName": "Junker Queen",
+        "acceptedNames": ["Junker Queen", "JQ", "Queen"],
+        "image": "heroes-art/junkerqueen.png"
+    },
+    {
+        "screenName": "Kiriko",
+        "acceptedNames": ["Kiriko", "Kiri"],
+        "image": "heroes-art/kiriko.png"
+    },
+    {
+        "screenName": "Lucio",
+        "acceptedNames": ["Lucio"],
+        "image": "heroes-art/lucio.png"
+    },
+    {
+        "screenName": "Mei",
+        "acceptedNames": ["Mei", "devil"],
+        "image": "heroes-art/mei.png"
+    },
+    {
+        "screenName": "Mercy",
+        "acceptedNames": ["Mercy", "angela"],
+        "image": "heroes-art/mercy.png"
+    },
+    {
+        "screenName": "Moira",
+        "acceptedNames": ["Moira"],
+        "image": "heroes-art/moira.png"
+    },
+    {
+        "screenName": "Orisa",
+        "acceptedNames": ["Orisa","OR-15w"],
+        "image": "heroes-art/orisa.png"
+    },
+    {
+        "screenName": "Venture",
+        "acceptedNames": ["venture"],
+        "image": "heroes-art/venture.png"
+    },
+    {
+        "screenName": "Pharah",
+        "acceptedNames": ["Pharah", "Phara"],
+        "image": "heroes-art/pharah.png"
+    },
+    {
+        "screenName": "Ramattra",
+        "acceptedNames": ["Ramattra", "Ram"],
+        "image": "heroes-art/ramattra.png"
+    },
+    {
+        "screenName": "Reaper",
+        "acceptedNames": ["Reaper", "Die die die guy"],
+        "image": "heroes-art/reaper.png"
+    },
+    {
+        "screenName": "Reinhardt",
+        "acceptedNames": ["Reinhardt", "Rein", "Crusadar"],
+        "image": "heroes-art/reinhardt.png"
+    },
+    {
+        "screenName": "Roadhog",
+        "acceptedNames": ["Roadhog", "Road", "Hog"],
+        "image": "heroes-art/roadhog.png"
+    },
+    {
+        "screenName": "Sigma",
+        "acceptedNames": ["Sigma", "Sig"],
+        "image": "heroes-art/sigma.png"
+    },
+    {
+        "screenName": "Sombra",
+        "acceptedNames": ["Sombra", "Som"],
+        "image": "heroes-art/som.png"
+    },
+    {
+        "screenName": "Sojourn",
+        "acceptedNames": ["Sojourn", "Soj"],
+        "image": "heroes-art/sojourn.png"
+    },
+    {
+        "screenName": "Symmetra",
+        "acceptedNames": ["Symmetra", "Sym"],
+        "image": "heroes-art/symmetra.png"
+    },
+    {
+        "screenName": "Torbjörn",
+        "acceptedNames": ["Torbjorn", "Torb"],
+        "image": "heroes-art/torbjorn.png"
+    },
+    {
+        "screenName": "Tracer",
+        "acceptedNames": ["Tracer"],
+        "image": "heroes-art/tracer.png"
+    },
+    {
+        "screenName": "Widowmaker",
+        "acceptedNames": ["Widowmaker", "Widow"],
+        "image": "heroes-art/widowmaker.png"
+    },
+    {
+        "screenName": "Winston",
+        "acceptedNames": ["Winston", "Wintone", "SniperMonkey"],
+        "image": "heroes-art/winston.png"
+    },
+    {
+        "screenName": "Zarya",
+        "acceptedNames": ["Zarya"],
+        "image": "heroes-art/zarya.png"
+    },
+    {
+        "screenName": "Zenyatta",
+        "acceptedNames": ["Zenyatta", "Zen"],
+        "image": "heroes-art/zenyatta.png"
+    },
+    {
+        "screenName": "Soldier 76",
+        "acceptedNames": ["Soldier", "Soldier 76", "Jack"],
+        "image": "heroes-art/soldier.png"
+    },
+    {
+        "screenName": "Wrecking Ball",
+        "acceptedNames": ["Ball", "Hammond", "WreckingBall", "Wrecking Ball"],
+        "image": "heroes-art/hammond.png"
+    },
+    {
+        "screenName": "Juno",
+        "acceptedNames": ["Juno"],
+        "image": "heroes-art/juno.png"
+    },
+    {
+        "screenName": "Illari",
+        "acceptedNames": ["Illari"],
+        "image": "heroes-art/illari.png"
+    },
+    {
+        "screenName": "Lifeweaver",
+        "acceptedNames": ["Life weaver", "lifeweaver", "weaver", "Wife leaver"],
+        "image": "heroes-art/lifeweaver.png"
+    },
+    {
+        "screenName": "Junkrat",
+        "acceptedNames": ["rat", "junk", "junkrat", "junk rat"],
+        "image": "heroes-art/junkrat.png"
+    },
+    {
+        "screenName": "Mauga",
+        "acceptedNames": ["maui", "Mauga"],
+        "image": "heroes-art/mauga.png"
+    }
+]
