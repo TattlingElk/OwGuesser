@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Character Guessing Game</title>
+  <title>Guess the Ow2 Hero</title>
   <style>
     /* Add some basic styling to make the game look decent */
     body {
@@ -156,6 +156,7 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
+
     }
 
     .popup-message {
@@ -167,7 +168,6 @@
       border-radius: 5px;
       color: white;
       font-size: 16px;
-      z-index: 1000; /* Ensure it appears above other content */
       display: none; /* Initially hidden */
     }
 
@@ -182,12 +182,12 @@
 </head>
 <body>
   <div id="start-screen">
-    <h1>Character Guessing Game</h1>
-    <p>Guess the character's name by submitting your answer. You can skip or give up at any time.</p>
+    <h1>Guess the Overwatch hero</h1>
+    <p>Guess the Herp's name. You can skip or give up at any time.</p>
     <button id="start-button">Start Game</button>
   </div>
   <div id="game-container">
-    <h1>Character Guessing Game</h1>
+    <h1>OverGuess</h1>
     <img id="character-image" src="" alt="Character Image">
     <input id="input-field" type="text" placeholder="Guess the character's name">
     <button id="submit-button">Submit</button>

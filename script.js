@@ -3,7 +3,7 @@ fetch('heroes.json')
   .then(response => response.json())
   .then(data => {
     // Shuffle the character data to randomize the order
-    const shuffledData = data.sort(() => Math.random() - 0.5);
+    let shuffledData = data.sort(() => Math.random() - 0.5);
 
     // Initialize the game state
     let currentIndex = 0;
@@ -19,6 +19,7 @@ fetch('heroes.json')
       // Hide the start screen and show the game container
       document.getElementById('start-screen').style.display = 'none';
       document.getElementById('game-container').style.display = 'flex';
+      shuffledData = data.sort(() => Math.random() - 0.5)//shuffle characters on game start to make sure that pressing restart, won't show the same heroes
 
       // Reset game state
       currentIndex = 0;
@@ -96,13 +97,15 @@ function endGame() {
     totalTime = (endTime - startTime) / 1000;
     const finalResult = `Game over! You guessed ${correctGuesses} out of ${shuffledData.length} characters in ${totalTime} seconds.`;
     document.getElementById('final-result').innerHTML = finalResult;
+    
     document.getElementById('game-over-modal').style.display = 'block'; // Show the game over modal
   
     // Add event listener to the close button
     document.querySelector('.close-button').addEventListener('click', () => {
-      // Hide the game over modal
+      // Hide the game over modal, and show the main menu again, also hide the game container
       document.getElementById('game-over-modal').style.display = 'none';
-      // Optionally, you can reset the game state here if needed
+      document.getElementById('start-screen').style.display = 'flex';
+      document.getElementById('game-container').style.display = 'none';
     });
   
     // Add event listener to the restart button

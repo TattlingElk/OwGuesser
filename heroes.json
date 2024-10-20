@@ -26,12 +26,12 @@
     },
     {
         "screenName": "Cassidy",
-        "acceptedNames": ["Cassidy", "Cass", "McCree", "Mc Cree"],
+        "acceptedNames": ["Cassidy", "Cass", "McCree", "Mc Cree", "Cas"],
         "image": "heroes-art/cassidy.png"
     },
     {
         "screenName": "D.Va",
-        "acceptedNames": ["D.Va", "Mech", "D.Va's mech","dva"],
+        "acceptedNames": ["D.Va", "Mech", "DVa's mech","dva"],
         "image": "heroes-art/dva.png"
     },
     {
